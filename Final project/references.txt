@@ -1,0 +1,8 @@
+https://stackoverflow.com/questions/42372821/applying-cost-functions-in-r
+
+
+https://towardsdatascience.com/an-overview-of-the-gradient-descent-algorithm-8645c9e4de1e
+
+https://towardsdatascience.com/logistic-regression-detailed-overview-46c4da4303bc
+
+https://www.tutorialspoint.com/how-to-find-bootstrap-confidence-interval-in-r
